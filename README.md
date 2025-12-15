@@ -1,4 +1,3 @@
-# JoJo_Final_Project
 # JoJo's Bizarre Adventure - Fan Page Project
 
 The purpose of this project is to create and develop a React-based web application exploring a the popular multi-media show, JoJo's Bizarre Adventure characters story and creator. 
